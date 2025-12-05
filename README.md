@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=xyzroe&project=ZigStarGW-MT&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # ZigStar GW Multi tool
 [![Build](https://github.com/xyzroe/ZigStarGW-MT/actions/workflows/build.yml/badge.svg)](https://github.com/xyzroe/ZigStarGW-MT/actions/workflows/build.yml)
 [![GitHub version](https://img.shields.io/github/release/xyzroe/ZigStarGW-MT.svg)](https://github.com/xyzroe/ZigStarGW-MT/releases)
